@@ -29,7 +29,7 @@ Setup and Installation
   
   For Code::Blocks:
     Open the .cbp project file.
-    Build and run the project.
+    Build and run the project to demonstrate.
 
 Images
 ![Screenshot 2024-09-11 225509](https://github.com/user-attachments/assets/06fdc409-626b-4b93-b35c-38c4c3402c80)
